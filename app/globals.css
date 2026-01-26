@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 25 100% 99%;
+    --foreground: 25 30% 15%;
+    --primary: 25 60% 45%;
+    --primary-foreground: 0 0% 100%;
+    --muted: 25 50% 96%;
+    --muted-foreground: 25 30% 40%;
+    --border: 25 30% 90%;
+    --card: 25 100% 99%;
+    --card-foreground: 25 30% 15%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-art-200;
+  }
+  body {
+    @apply bg-gradient-to-br from-art-50 via-white to-art-100 text-art-900 font-body antialiased min-h-screen;
+  }
+}
+
+@layer components {
+  .art-button {
+    @apply px-6 py-3 rounded-full font-medium transition-all duration-300 shadow-sm hover:shadow-md;
+  }
+
+  .art-button-primary {
+    @apply bg-art-600 text-white hover:bg-art-700 hover:-translate-y-0.5;
+  }
+
+  .art-button-secondary {
+    @apply bg-white text-art-700 border-2 border-art-300 hover:border-art-400 hover:bg-art-50;
+  }
+
+  .art-card {
+    @apply bg-white rounded-2xl shadow-sm border border-art-200 hover:shadow-md transition-all duration-300;
+  }
+
+  .art-input {
+    @apply w-full px-4 py-3 rounded-xl border-2 border-art-200 focus:border-art-500 focus:outline-none transition-colors bg-white;
+  }
+
+  .art-badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-art-100 text-art-700;
+  }
+}
