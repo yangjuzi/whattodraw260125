@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import Image from 'next/image';
 
 const Header = () => {
   const [toolsOpen, setToolsOpen] = useState(false);
@@ -15,6 +16,20 @@ const Header = () => {
           <Link href="/" className="text-2xl font-bold text-art-700 font-display">
             WhatToDraw.art
           </Link>
+                      <Link
+              href="/"
+              className="flex items-center gap-2 text-2xl font-bold text-art-700 font-display"
+            >
+              <Image
+                src="/icon.png"
+                alt="WhatToDraw.art logo"
+                width={32}
+                height={32}
+                priority
+              />
+              <span>WhatToDraw.art</span>
+            </Link>
+
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
