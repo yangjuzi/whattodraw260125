@@ -87,7 +87,7 @@ export default async function IdeaPage({ params }: IdeaPageProps) {
                   <img
                     src={item.image}
                     alt={item.alt || item.text}
-                    className="w-full h-48 object-cover"
+                    className="w-full h-full object-contain p-2" 
                     loading="lazy"
                   />
                 </div>

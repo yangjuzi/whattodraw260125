@@ -10,7 +10,7 @@ export const idea: DrawingIdea = {
   items: [
     {
       text: "A cup of coffee with steam rising",
-      image: "/images/easy/coffee-steam.png",
+      image: "/images/easy/coffee-steams.png",
       alt: "Cup of coffee with steam rising drawing idea"
     },
     {
