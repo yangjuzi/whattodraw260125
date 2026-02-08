@@ -10,42 +10,42 @@ export const idea: DrawingIdea = {
     items: [
       {
         text: "A baby panda",
-        image: "/images/cute-animals/baby-panda.png",
+        image: "/images/cuteimg/baby-panda.png",
         alt: "Baby panda cute drawing idea"
       },
       {
         text: "A tiny hedgehog",
-        image: "/images/cute-animals/tiny-hedgehog.png",
+        image: "/images/cuteimg/tiny-hedgehog.png",
         alt: "Tiny hedgehog cute drawing idea"
       },
       {
         text: "A round penguin",
-        image: "/images/cute-animals/round-penguin.png",
+        image: "/images/cuteimg/round-penguin.png",
         alt: "Round penguin cute drawing idea"
       },
       {
         text: "A small bunny with floppy ears",
-        image: "/images/cute-animals/floppy-ear-bunny.png",
+        image: "/images/cuteimg/floppy-ear-bunny.png",
         alt: "Small bunny with floppy ears drawing idea"
       },
       {
         text: "A baby otter",
-        image: "/images/cute-animals/baby-otter.png",
+        image: "/images/cuteimg/baby-otter.png",
         alt: "Baby otter cute drawing idea"
       },
       {
         text: "A koala",
-        image: "/images/cute-animals/koala.png",
+        image: "/images/cuteimg/koala.png",
         alt: "Koala cute drawing idea"
       },
       {
         text: "A kitten with big eyes",
-        image: "/images/cute-animals/big-eye-kitten.png",
+        image: "/images/cuteimg/big-eye-kitten.png",
         alt: "Kitten with big eyes drawing idea"
       },
       {
         text: "A puppy sitting down",
-        image: "/images/cute-animals/sitting-puppy.png",
+        image: "/images/cuteimg/sitting-puppy.png",
         alt: "Puppy sitting down drawing idea"
       }
     ]
@@ -55,42 +55,42 @@ export const idea: DrawingIdea = {
     items: [
       {
         text: "A happy pizza slice",
-        image: "/images/cute-food/pizza-slice.png",
+        image: "/images/cuteimg/pizza-slice.png",
         alt: "Happy pizza slice cute drawing idea"
       },
       {
         text: "A smiling cookie",
-        image: "/images/cute-food/smiling-cookie.png",
+        image: "/images/cuteimg/smiling-cookie.png",
         alt: "Smiling cookie cute drawing idea"
       },
       {
         text: "A cute ice cream cone",
-        image: "/images/cute-food/ice-cream.png",
+        image: "/images/cuteimg/ice-cream.png",
         alt: "Cute ice cream cone drawing idea"
       },
       {
         text: "A friendly burger",
-        image: "/images/cute-food/friendly-burger.png",
+        image: "/images/cuteimg/friendly-burger.png",
         alt: "Friendly burger cute drawing idea"
       },
       {
         text: "A happy donut",
-        image: "/images/cute-food/happy-donut.png",
+        image: "/images/cuteimg/happy-donut.png",
         alt: "Happy donut cute drawing idea"
       },
       {
         text: "A cute marshmallow",
-        image: "/images/cute-food/marshmallow.png",
+        image: "/images/cuteimg/marshmallow.png",
         alt: "Cute marshmallow drawing idea"
       },
       {
         text: "A smiling cupcake",
-        image: "/images/cute-food/smiling-cupcake.png",
+        image: "/images/cuteimg/smiling-cupcake.png",
         alt: "Smiling cupcake cute drawing idea"
       },
       {
         text: "A cheerful taco",
-        image: "/images/cute-food/cheerful-taco.png",
+        image: "/images/cuteimg/cheerful-taco.png",
         alt: "Cheerful taco cute drawing idea"
       }
     ]
@@ -100,42 +100,42 @@ export const idea: DrawingIdea = {
     items: [
       {
         text: "A happy cloud",
-        image: "/images/kawaii/cloud.png",
+        image: "/images/cuteimg/cloud.png",
         alt: "Happy cloud kawaii drawing idea"
       },
       {
         text: "A smiling sun",
-        image: "/images/kawaii/sun.png",
+        image: "/images/cuteimg/sun.png",
         alt: "Smiling sun kawaii drawing idea"
       },
       {
         text: "A cute star",
-        image: "/images/kawaii/star.png",
+        image: "/images/cuteimg/star.png",
         alt: "Cute star kawaii drawing idea"
       },
       {
         text: "A happy moon",
-        image: "/images/kawaii/moon.png",
+        image: "/images/cuteimg/moon.png",
         alt: "Happy moon kawaii drawing idea"
       },
       {
         text: "A cheerful raindrop",
-        image: "/images/kawaii/raindrop.png",
+        image: "/images/cuteimg/raindrop.png",
         alt: "Cheerful raindrop kawaii drawing idea"
       },
       {
         text: "A happy flower",
-        image: "/images/kawaii/flower.png",
+        image: "/images/cuteimg/flower.png",
         alt: "Happy flower kawaii drawing idea"
       },
       {
         text: "A cute tree",
-        image: "/images/kawaii/tree.png",
+        image: "/images/cuteimg/tree.png",
         alt: "Cute tree kawaii drawing idea"
       },
       {
         text: "A smiling house",
-        image: "/images/kawaii/house.png",
+        image: "/images/cuteimg/house.png",
         alt: "Smiling house kawaii drawing idea"
       }
     ]
@@ -145,42 +145,42 @@ export const idea: DrawingIdea = {
     items: [
       {
         text: "A friendly ghost",
-        image: "/images/cute-creatures/friendly-ghost.png",
+        image: "/images/cuteimg/friendly-ghost.png",
         alt: "Friendly ghost cute drawing idea"
       },
       {
         text: "A cute monster",
-        image: "/images/cute-creatures/cute-monster.png",
+        image: "/images/cuteimg/cute-monster.png",
         alt: "Cute monster drawing idea"
       },
       {
         text: "A tiny dragon",
-        image: "/images/cute-creatures/tiny-dragon.png",
+        image: "/images/cuteimg/tiny-dragon.png",
         alt: "Tiny dragon cute drawing idea"
       },
       {
         text: "A sweet fairy",
-        image: "/images/cute-creatures/fairy.png",
+        image: "/images/cuteimg/fairy.png",
         alt: "Sweet fairy drawing idea"
       },
       {
         text: "A cute unicorn",
-        image: "/images/cute-creatures/unicorn.png",
+        image: "/images/cuteimg/unicorn.png",
         alt: "Cute unicorn drawing idea"
       },
       {
         text: "A happy alien",
-        image: "/images/cute-creatures/happy-alien.png",
+        image: "/images/cuteimg/happy-alien.png",
         alt: "Happy alien cute drawing idea"
       },
       {
         text: "A small robot",
-        image: "/images/cute-creatures/small-robot.png",
+        image: "/images/cuteimg/small-robot.png",
         alt: "Small robot cute drawing idea"
       },
       {
         text: "A cheerful blob",
-        image: "/images/cute-creatures/cheerful-blob.png",
+        image: "/images/cuteimg/cheerful-blob.png",
         alt: "Cheerful blob cute drawing idea"
       }
     ]
@@ -190,42 +190,42 @@ export const idea: DrawingIdea = {
     items: [
       {
         text: "A happy pencil",
-        image: "/images/cute-objects/pencil.png",
+        image: "/images/cuteimg/pencil.png",
         alt: "Happy pencil cute drawing idea"
       },
       {
         text: "A cute eraser",
-        image: "/images/cute-objects/eraser.png",
+        image: "/images/cuteimg/eraser.png",
         alt: "Cute eraser drawing idea"
       },
       {
         text: "A smiling book",
-        image: "/images/cute-objects/smiling-book.png",
+        image: "/images/cuteimg/smiling-book.png",
         alt: "Smiling book cute drawing idea"
       },
       {
         text: "A cute umbrella",
-        image: "/images/cute-objects/umbrella.png",
+        image: "/images/cuteimg/umbrella.png",
         alt: "Cute umbrella drawing idea"
       },
       {
         text: "A happy bag",
-        image: "/images/cute-objects/bag.png",
+        image: "/images/cuteimg/bag.png",
         alt: "Happy bag cute drawing idea"
       },
       {
         text: "A cute mug",
-        image: "/images/cute-objects/mug.png",
+        image: "/images/cuteimg/mug.png",
         alt: "Cute mug drawing idea"
       },
       {
         text: "A smiling pillow",
-        image: "/images/cute-objects/pillow.png",
+        image: "/images/cuteimg/pillow.png",
         alt: "Smiling pillow cute drawing idea"
       },
       {
         text: "A cute light bulb",
-        image: "/images/cute-objects/light-bulb.png",
+        image: "/images/cuteimg/light-bulb.png",
         alt: "Cute light bulb drawing idea"
       }
     ]
